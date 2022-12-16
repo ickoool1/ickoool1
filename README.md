@@ -1,5 +1,6 @@
 <?php
-echo hellp
+echo hello word
+PHP_EOL
 
 <!---
 ickoool1/ickoool1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
